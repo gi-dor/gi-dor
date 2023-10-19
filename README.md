@@ -17,7 +17,7 @@
  - 반복된 훈련으로 읽고 습득하고 실행하면 안되는게 없다고 생각합니다.
  - 공부 한 것 혹은 오류가 발생했던 과정을 기록하는 개인 블로그 입니다
 
- - https://gi-dor.tistory.com/  
+ - <a href = 'https://gi-dor.tistory.com/' target = '_blank'> 블로그 </a>
   
 
 <br/><br/>
