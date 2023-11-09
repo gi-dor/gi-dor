@@ -7,17 +7,17 @@
 
 - 백엔드 개발자를 희망하는 한기선 입니다.  :hatching_chick:
 - 블로그, 깃허브 등 꾸준하게 공부한것에 대해 기록을 남기고 있습니다.
-- 모르는 것을 두려워하지 않고 질문하는 것을 불편해 하지 않아  다른이들과 원활하게 소통 할수 있습니다.
-- 쉽고 간단한 코드가 누구든지 이해하기 쉬운 코드라고 생각합니다.
+- 해결하기 힘든 문제가 있을 때 충분한 시도와 고민을 거친 후 질문 하는 것을 주저하지 않습니다 이런 태도는 다른이들과 원활한 소통을 하는데 기여한다고 생각합니다.
+- 쉽고 단순한 코드가 누구든지 이해하기 쉬운 코드라고 생각합니다.
   <br><br>
 
  ### 블로그
  
- - 한번 작성했던 코드여도 뒤돌아 보면 잊어 버리고 , 어떻게 해결 했었지 하는 일이 자주 있습니다
- - 반복된 훈련으로 읽고 습득하고 실행하면 안되는게 없다고 생각합니다.
- - 공부 한 것 혹은 오류가 발생했던 과정을 기록하는 개인 블로그 입니다
+ - 한번 작성했던 코드여도 시간이 지나 다시 보면  이걸 어떻게 해결 했었지 하는 일이 자주 있습니다
+ - 이런 경험을 토대로 반복된 훈련으로 읽고 습득하고 실행하면 안되는게 없다고 생각합니다.
+ - 공부 한 내용과 혹은 발생했던 오류들을 기록하며 성장하고자 하는  블로그 입니다
 
- - <a href = 'https://gi-dor.tistory.com/' target = '_blank'> 블로그 </a>
+ - <a href = 'https://gi-dor.tistory.com/' target = '_blank'> 블로그</a> 🐥
   
 
 <br/><br/>
@@ -38,7 +38,6 @@
 ### :whale2: Back 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-<br>
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### :dolphin: Database
