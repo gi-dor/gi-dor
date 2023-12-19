@@ -14,7 +14,7 @@
  ### Blog
  
  - 공부 한 내용과 발생했던 오류들을 기록하며 성장하고자 하는 블로그 입니다 
- - <a href = 'https://gi-dor.tistory.com/' target = '_blank'> 블로그</a> 🐥
+ - <a href = "https://gi-dor.tistory.com/" target = "_blank"> 블로그</a> 🐥
   
 
 <br/><br/>
