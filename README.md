@@ -11,6 +11,13 @@
 <br><br>
 
 
+<a href="https://github.com/devxb/gitanimals">
+<img src="https://render.gitanimals.org/farms/gi-dor?loading" 
+  width="600" 
+  height="300" 
+  alt="preview farm" style="background-color: rgb(255, 255, 255);">
+</a>
+
 
 <a href="https://github.com/devxb/gitanimals">
   <img
