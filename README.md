@@ -1,13 +1,23 @@
 <!-- 헤더 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=gi.dor&fontSize=40" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=gi.dor&fontSize=40" /> -->
+
 
 <!--소개-->
 ### HELLO ! 😁
 
 - 백엔드 개발자 한기선 입니다.  :hatching_chick:
-- 블로그, 깃허브 등 꾸준하게 공부한것에 대해 기록을 남기고 있습니다.
-- 쉽고 단순한 코드가 좋은 코드라고 생각합니다.
+
+<br><br>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/gi-dor"
+  width="600"
+  height="300"
+/>
+</a>
+
 
 <br><br>
 
