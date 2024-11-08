@@ -18,21 +18,8 @@
   alt="preview farm" style="background-color: rgb(255, 255, 255);">
 </a>
 
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/gi-dor?pet-id=642602869920339219"
-    width="1000"
-    height="150"
-  />
-</a>
   
 
-
-
-
-
-  
 
 
 <br><br>
