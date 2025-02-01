@@ -1,18 +1,32 @@
 <!-- 헤더 -->
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=gi.dor&fontSize=40" /> -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/86302876/208285890-f0ef690f-5c45-4254-bec2-bb549b6ce4c2.jpg" alt="moomin2">
+</p>
 
 
 <!--소개-->
 ### HELLO ! 😁
 
-- 백엔드 개발자 한기선 입니다.  :hatching_chick:
-
-<br><br>
+- 개발자 한기선 입니다  :hatching_chick:
 
 
 
-<a href="https://github.com/devxb/gitanimals">
+
+
+
+
+
+
+
+
+
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=gi.dor&fontSize=40" /> -->
+
+<!--
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gi-dor&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/gi-dor"
   width="600"
@@ -20,8 +34,9 @@
 />
 </a>
 
+-->
 
-<br><br>
+
 
 <!---
  ### Blog
@@ -32,8 +47,8 @@
 
 <br/><br/>
 --->
- 
- <!--기술스택-->
+
+<!--
   ## Skill :fish:
 <br>
 
@@ -45,25 +60,14 @@
 
 
 ### :whale2: Back 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-<!---- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) --->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&l
 
 
-### :dolphin: Database
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-
-<br><br>
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/86302876/208285890-f0ef690f-5c45-4254-bec2-bb549b6ce4c2.jpg" alt="moomin2">
-</p>
 
 
 
 <!--
+
 **gi-dor/gi-dor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
